@@ -1,0 +1,19 @@
+{
+    "name": "ma7t3/uuid",
+    "version": "1.0.0",
+    "description": "A simple Uuid generator and wrapper class",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "ma7t3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ma7t3",
+            "email": "104677051+ma7t3@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "stable"
+}
